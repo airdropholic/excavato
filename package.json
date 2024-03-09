@@ -1,0 +1,24 @@
+{
+  "name": "excavato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airdropholic/excavato.git"
+  },
+  "author": "airdropholic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airdropholic/excavato/issues"
+  },
+  "homepage": "https://github.com/airdropholic/excavato#readme",
+  "dependencies": {
+    "not-rf-online": "^1.0.0",
+    "rf-notline": "^1.0.0",
+    "sinomatatabi": "^1.0.0"
+  }
+}
